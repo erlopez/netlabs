@@ -1,7 +1,5 @@
 # Linux Networking Labs
 
-Sure! Here's an improved, more readable version:
-
 `netlabs.sh` is a command-line tool designed to quickly create flexible network setups 
 using Ubuntu servers. It helps students practice and enhance their Linux networking 
 skills with tools like `iproute2` (`ip`), `iptables`, `dnsmasq`, and others.
